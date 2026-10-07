@@ -1,0 +1,18 @@
+export const services = [
+  { label: "Medical Consultation", emoji: "🩺" },
+  { label: "Legal Advisory", emoji: "⚖️" },
+  { label: "Accounting & Tax", emoji: "📊" },
+  { label: "Architecture & Design", emoji: "🏗️" },
+  { label: "Civil Engineering", emoji: "🔧" },
+  { label: "Software Development", emoji: "💻" },
+  { label: "Education & Tutoring", emoji: "📚" },
+  { label: "Dental Care", emoji: "🦷" },
+  { label: "Physiotherapy", emoji: "🏃" },
+  { label: "Real Estate", emoji: "🏠" },
+  { label: "Financial Planning", emoji: "💰" },
+  { label: "Electrical Works", emoji: "⚡" },
+  { label: "Plumbing & Sanitation", emoji: "🚰" },
+  { label: "Hair & Beauty", emoji: "💇" },
+  { label: "Photography & Events", emoji: "📸" },
+  { label: "Cleaning Services", emoji: "🧹" },
+];
